@@ -1,9 +1,4 @@
 # hello-world
-Repository for Hello World tutorial
+Repository for Hello World tutorial.
 
-Hello. I'm John.
-
-This is an update to the README.md file
-
-And another one...
-
+Having completed the Hello World tutorial, I am now using this is a repository to get used to using GitHub, and its integration with VSCode.
